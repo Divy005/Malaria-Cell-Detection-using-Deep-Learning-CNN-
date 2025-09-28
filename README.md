@@ -133,7 +133,8 @@ life-threatening as it delays critical treatment. By using a lower threshold, th
 The model outputs a probability score between 0 and 1, where values closer to 1 indicate higher confidence in the "Uninfected" class.
 
 ## 📷 Images
-<img width="1416" height="1064" alt="image" src="https://github.com/user-attachments/assets/84e93db9-36c1-491d-9c65-0ff13d770243" />
+<img width="1179" height="1052" alt="image" src="https://github.com/user-attachments/assets/90d30d5b-ef78-461a-97de-525e6c44c515" />
+<img width="1180" height="1097" alt="image" src="https://github.com/user-attachments/assets/38ffac28-effb-4fe9-9f04-ef6481838e40" />
 <img width="1176" height="1114" alt="image" src="https://github.com/user-attachments/assets/b701ce42-fc7c-4f52-9dbd-dcaa98522726" />
 
 
